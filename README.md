@@ -1,2 +1,2 @@
 # SQL_Loading
-A collection of my SQL Files
+ClassicModels MySQL Database Queries
